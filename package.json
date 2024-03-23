@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-rwa",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "Description for js-rwa",
   "main": "src/index.js",
   "scripts": {
@@ -18,6 +18,15 @@
   "dependencies": {
     "@jshomee/js-ai": "^1.0.0",
     "@movexl/manage-github-repo": "^1.0.0",
-    "nodejs-env-checker": "^1.0.0"
+    "nodejs-env-checker": "^1.0.0",
+    "@jshomee/js-learn": "^1.0.0",
+    "@jshomee/js-lint": "^1.0.0",
+    "@jshomee/js-privacy": "^1.0.0",
+    "@jshomee/js-public": "^1.0.0",
+    "@jshomee/js-tps": "^1.0.0",
+    "@jshomee/js-fakeai": "^1.0.0",
+    "@jshomee/js-nft": "^1.0.0",
+    "@jshomee/js-dex": "^1.0.0",
+    "@jshomee/js-loan": "^1.0.0"
   }
 }
