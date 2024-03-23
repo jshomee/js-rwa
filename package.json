@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-rwa",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Description for js-rwa",
   "main": "src/index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@jshomee/js-ai": "^1.0.0",
     "@movexl/manage-github-repo": "^1.0.0",
     "nodejs-env-checker": "^1.0.0"
   }
