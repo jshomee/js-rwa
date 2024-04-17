@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-rwa",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "Description for js-rwa",
   "main": "src/index.js",
   "scripts": {
